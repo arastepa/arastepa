@@ -1,3 +1,5 @@
+<img src="https://github.com/arastepa/arastepa/assets/77893589/fea820bd-10ce-46a0-98c1-4c7191ea0939" alt="Header" width="100%">
+
 <h1 align="center">Hi 👋, I'm arastepa</h1>
 <h3 align="center">C/C++, JavaScript developer</h3>
 
